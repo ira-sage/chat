@@ -1,0 +1,18 @@
+.chat-btn {
+    width: 100%;
+    color: white;
+    font-weight: bold;
+    background-color: $light-lilac;
+    &:hover {
+      color: white;
+      background-color: $lilac;
+    }
+}
+
+.chat-input {
+    &:focus {
+      box-shadow: 0 0 5px 0 $lilac;
+      border-color: $light-lilac;
+    }
+}
+  
