@@ -11,7 +11,7 @@ section.login.mx-auto.d-flex.flex-column.align-items-center.justify-content-cent
 <script>
 export default {
   data () {
-    const exampleImg = 'https://a.wattpad.com/cover/114445804-352-k379913.jpg'
+    const exampleImg = '/img/100.jpg'
     return { img: '', name: '', exampleImg }
   },
   methods: {

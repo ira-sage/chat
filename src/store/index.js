@@ -18,7 +18,7 @@ export default new Vuex.Store({
       }
     ],
     users: [
-      { id: 1, name: 'Ivan', img: 'https://vokrug.tv/pic/person/8/1/1/c/811c3723af673749301a3a01f2dbf85c.jpg' }
+      { id: 1, name: 'Ivan', img: '/img/cat.jpg' }
     ]
   },
   getters: {
